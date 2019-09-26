@@ -2,7 +2,7 @@
     <nav>
       <ul>
 
-        <li><a href="#movie">Movies</a></li>
+        <li><a href="index.html">Movies</a></li>
         <li><a href="#add-movie">Add a New Movie</a></li>
       </ul>
     </nav>
