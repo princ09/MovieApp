@@ -42,7 +42,7 @@ export default {
   data () {
     return {
       show:true,
-      isHidden: false,
+      isHidden: true,
       mylist_show:false,
       showList:false
     }
